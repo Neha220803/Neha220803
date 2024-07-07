@@ -80,6 +80,8 @@
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-<img src="https://ionicframework.com/docs/intro/ionic-logo.png" alt="ionic" width="40" height="40"/> 
+  </a>z
+<a href="https://ionicframework.com/" target="_blank"> 
+  <img src="https://ionicframework.com/docs/intro/ionic-logo.png" alt="ionic" width="40" height="40"/> 
+</a>
 </p>
