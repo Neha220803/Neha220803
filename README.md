@@ -82,6 +82,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>z
 <a href="https://ionicframework.com/" target="_blank"> 
-  <img src="https://ionicframework.com/docs/intro/ionic-logo.png" alt="ionic" width="40" height="40"/> 
+  <img src="https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-lmy3f68o.png" alt="ionic" width="40" height="40"/> 
 </a>
 </p>
