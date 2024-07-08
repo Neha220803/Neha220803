@@ -29,7 +29,7 @@
     - [GitHub](https://github.com/Neha220803)
     - [LinkedIn](https://www.linkedin.com/in/neeharika-s/)
     - [Portfolio](https://neeharika.web.app)
-    - [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=391377&key=3eaaccd6284447d0ed65aa47c991d96a91ecfa46)(Solved over 1600+ Programs, with 20+ Certifications)
+    - [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=391377&key=3eaaccd6284447d0ed65aa47c991d96a91ecfa46) (Solved over 1600+ Programs, with 20+ Certifications)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
