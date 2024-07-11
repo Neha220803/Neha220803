@@ -88,7 +88,13 @@
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on a college bus tracking application.<br>🌱 I’m currently learning Certified Ethical Hacking (undergoing certification from EC-Council).<br>👯 I’m looking to collaborate on web development and mobile app development.<br>💬 Ask me about Flutter development, web application security, and organizing tech events.<br>📫 How to reach me: neeharika.srinivasan@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I led Google DSC events that boosted over 100 student participants in Google's Solution Challenge and organized tech sessions for more than 350 students of my college.
+- 🔭 I’m currently working on a **college bus tracking application**.
+- 🌱 I’m currently learning **Certified Ethical Hacking** (undergoing certification from EC-Council).
+- 👯 I’m looking to collaborate on **web development** and **mobile app development**.
+- 💬 Ask me about **Flutter development**, **web application security**, and **organizing tech events**.
+- 📫 How to reach me: **neeharika.srinivasan@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: I led **Google DSC events** that boosted over **100 student participants** in Google's Solution Challenge and organized tech sessions for more than 350 students of my college.
 
 <!--
 ## 🌐 Socials:
