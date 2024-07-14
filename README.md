@@ -3,7 +3,7 @@
 <!--
 **Neha220803/Neha220803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on a college bus tracking application.
+- 🔭 I’m currently working on a College Bus Tracking Application.
 - 🌱 I’m currently learning Certified Ethical Hacking (undergoing certification from EC-Council).
 - 👯 I’m looking to collaborate on web development and mobile app development projects.
 - 🤔 I’m looking for help with ...
