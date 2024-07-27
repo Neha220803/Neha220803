@@ -18,7 +18,7 @@
 - [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=391377&key=3eaaccd6284447d0ed65aa47c991d96a91ecfa46)
 
 
-- 🔭 I’m currently working on a **college bus tracking application**.
+- 🔭 I’m currently working on a **College Bus Tracking Application**.
 - 🌱 I’m currently learning **Certified Ethical Hacking** (undergoing certification from EC-Council).
 - 👯 I’m looking to collaborate on **web development** and **mobile app development**.
 - 💬 Ask me about **Flutter development**, **web application security**, and **organizing tech events**.
